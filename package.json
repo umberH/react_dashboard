@@ -1,0 +1,25 @@
+{
+  "name": "2sknzj",
+  "version": "1.0.0",
+  "description": "https://github.com/",
+  "keywords": ["evidence", "dashboard"],
+  "main": "/index.html",
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "5.17.20",
+    "core": "1.0.113",
+    "d3": "7.8.2",
+    "papaparse": "5.3.2",
+    "plotly.js": "2.18.0",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-plotly.js": "2.6.0"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
